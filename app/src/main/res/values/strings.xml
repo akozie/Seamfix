@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Seamfix - SOS</string>
+    <string name="failed_message">Failed to send SOS</string>
+    <string name="success_message">SOS sent successfully</string>
+    <string name="location_is_not_available">Location not available</string>
+    <string name="permissions_denied">Permissions denied</string>
+    <string name="capture">Take Picture</string>
+</resources>
